@@ -1,0 +1,14 @@
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\bin\Debug\net6.0\Ejercicio12.exe
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\bin\Debug\net6.0\Ejercicio12.deps.json
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\bin\Debug\net6.0\Ejercicio12.runtimeconfig.json
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\bin\Debug\net6.0\Ejercicio12.dll
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\bin\Debug\net6.0\Ejercicio12.pdb
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\Ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\Ejercicio12.AssemblyInfoInputs.cache
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\Ejercicio12.AssemblyInfo.cs
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\Ejercicio12.dll
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\refint\Ejercicio12.dll
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\Ejercicio12.pdb
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\Ejercicio12.genruntimeconfig.cache
+C:\ReposLogic\Ejercicio6\ejercicio12\Ejercicio12\obj\Debug\net6.0\ref\Ejercicio12.dll
